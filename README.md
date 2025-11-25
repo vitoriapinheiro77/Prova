@@ -8,7 +8,7 @@ Docker e Docker Compose
 
 # Clone o repositório:
    
-git clone - link-do-seu-repositorio
+git clone - link-do-repositorio
 
 # Suba os containers do Docker:
 

@@ -1,7 +1,7 @@
 version: '3'
 services:
   
-  # Aplicação (PHP)
+  
   app:
     build:
       context: .
@@ -15,7 +15,7 @@ services:
     networks:
       - laravel
 
-  # Servidor Web (Nginx)
+  
   nginx:
     image: nginx:alpine
     container_name: laravel-nginx
@@ -30,7 +30,7 @@ services:
     networks:
       - laravel
 
-  # Banco de Dados (MySQL)
+  
   db:
     image: mysql:8.0
     container_name: laravel-db
