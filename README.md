@@ -4,8 +4,7 @@
 
 Pré-requisitos: 
 
-Docker
-Docker Compose
+Docker e Docker Compose
 
 # Clone o repositório:
    
