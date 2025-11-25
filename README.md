@@ -4,13 +4,12 @@
 
 Pré-requisitos: 
 
--- Docker
--- Docker Compose
+Docker
+Docker Compose
 
 # Clone o repositório:
    
-   git clone <link-do-seu-repositorio>
-   cd <nome-da-pasta>
+git clone - link-do-seu-repositorio
 
 # Suba os containers do Docker:
 
