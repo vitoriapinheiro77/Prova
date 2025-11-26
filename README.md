@@ -8,7 +8,7 @@ Docker e Docker Compose
 
 # Clone o repositório:
    
-git clone - link-do-repositorio
+git clone https://github.com/vitoriapinheiro77/Prova.git
 
 # Suba os containers do Docker:
 
@@ -35,5 +35,7 @@ docker-compose exec app php artisan migrate
 
 # Acesse no navegador:
 
-http://localhost:8000/categorias
+Tela Inicial (Teste): http://localhost:8000
+
+Sistema de Categorias (O Trabalho): http://localhost:8000/categorias
 
